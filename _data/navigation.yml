@@ -3,11 +3,23 @@ main:
     url: /about/
   - title: "Посты"
     url: /posts/
-  - title: "Категории"
-    url: /categories/
-  - title: "Тэги"
-    url: /tags/
+#  - title: "Категории"
+#    url: /categories/
+#  - title: "Тэги"
+#    url: /tags/
   - title: "Софт"
     url: /soft/
   - title: "Коллекция ссылок"
     url: /extra-links/
+
+docs:
+  - title: Программы
+    children:
+      - title: "Менеджеры паролей"
+        url: /docs/passwords-managers/
+      - title: "Программы для шифрования"
+        url: /docs/encruption-software/
+      - title: "Двух-факторная аутентификация"
+        url: /docs/2FA/
+      - title: "Заметки с шифрованием"
+        url: /docs/encryptions-notes/

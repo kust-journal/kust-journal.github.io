@@ -15,6 +15,8 @@ showToc: false
 
 [EFF](https://www.eff.org/)
 
+[Sun Knudsen](https://sunknudsen.com/)
+
 [PrivacyTools](https://www.privacytools.io)
 
 [Privacy guides](https://www.privacyguides.org)
@@ -23,6 +25,6 @@ showToc: false
 
 [Firewalls don't stop dragons](https://firewallsdontstopdragons.com/)
 
-[Freedom of the press foundation](https://freedom.press/) - защищает и расширяет возможности журналистики в 21 веке.
+[Freedom of the press foundation](https://freedom.press/)
 
 [The Hitchhiker’s Guide to Online Anonymity](https://anonymousplanet.org/guide.html)  

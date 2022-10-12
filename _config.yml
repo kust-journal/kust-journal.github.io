@@ -1,19 +1,22 @@
 # Site settings
 locale: "ru"
 title: Куст
-# title_separator: "-"
-# subtitle: # site tagline that appears below site title in masthead
+title_separator: "|"
+subtitle: "#нетвойне" # site tagline that appears below site title in masthead
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Небольшой и ламповый ресурс по цифровой безопастности.
-# twitter_username: username
-# github_username: username
-minimal_mistakes_skin: dark
-search: true
+minimal_mistakes_skin: "dark"  # "default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+search: false 
 teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo: # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title: # overrides the website title displayed in the masthead, use " " for no title
-# breadcrumbs: true # true, false (default)
+#breadcrumbs: true # true, false (default)
+
+repository: "kust-journal/kust-journal.github.io"
+url: https://kust-journal.github.io/
+logo: "/assets/images/kust_88x88.png"
+
 words_per_minute: 115
 
 atom_feed:
@@ -29,30 +32,14 @@ permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-include:
-  - _pages
-
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
 
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
   - jemoji
   - jekyll-include-cache
-
 
 footer:
   links:
@@ -77,6 +64,7 @@ defaults:
       related: true
       toc: true
       toc_sticky: true
+  
   # _pages
   - scope:
       path: "_pages"
@@ -91,3 +79,9 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+  # Reading Files
+include:
+  - .htaccess
+  - _pages
+  - _docs
