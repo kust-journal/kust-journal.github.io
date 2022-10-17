@@ -1,5 +1,5 @@
 ---
-title: "Зашифрованные заметки"
+title: "Заметки с шифрованием"
 permalink: /docs/encryptions-notes/
 layout: "single"
 toc: false
@@ -12,7 +12,7 @@ sidebar:
 
 **[Standard Notes](https://standardnotes.com/)**  
 Цена: Бесплатно  
-Платформы: Android, iOS, Windows, Linux, MacOS
+Платформы: Android, iOS, Windows, Linux, MacOS  
 
 ---
 

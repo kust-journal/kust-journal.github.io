@@ -21,15 +21,18 @@ sidebar:
 > Намного проще ввести парольную фразу saddling-cussed-broadcast которая состоит из 25 символов,
 > чем случайный пароль той же длинны, например:  YI(RD#2ORH:,M{T$62!]z;^xf
 
-## [Picocrypt](https://github.com/HACKERALERT/Picocrypt)  
+## ![](/assets/soft-icons/picocrypt.png) Picocrypt  
 Цена: Бесплатно  
-Платформы: Windows, Linux, MacOS
+Платформы: Windows, Linux, MacOS  
+[Сайт](https://github.com/HACKERALERT/Picocrypt){: .btn .btn--success} 
 
-Небольшая и быстрая утилита для шифрования файлов. Использует новый алгоритм шифрования XChaCha20, который быстрее и безопаснее, чем зарекомендовавший себя временем AES-256. 
 
-## [Hat.sh](https://hat.sh/)
+Небольшая и быстрая утилита для шифрования файлов. Использует новый алгоритм шифрования XChaCha20, который быстрее и безопаснее, чем зарекомендовавший себя временем AES-256.
+
+## ![](/assets/soft-icons/hat-sh.png) Hat.sh  
 Цена: Бесплатно  
-Платформы: Браузер
+Платформы: Браузер  
+[Сайт](https://hat.sh/){: .btn .btn--success}  
 
 Веб-приложение для шифрования фаших файлов прямо в браузере. Использует XChaCha20-Poly1305 для шифрования файлов. Приложение не отправляет ваши данные на сервера, шифрование происходит на устройствах пользователей. Хороший вариант для тех, кто не может или не хочет устонавливать дополнительные программы.
 
@@ -52,9 +55,11 @@ Bitlocker можно активировать на домашней версии
 
 Ключ восстановления также лучше не хранить в аккаунте Microsoft, а хранить локально.
 
-## [VeraCrypt](https://veracrypt.fr/) (Windows)
+## ![](/assets/soft-icons/VeraCrypt.png) VeraCrypt (Windows)
 Цена: Бесплатно  
-Платформы: Windows, Linux, MacOS, Rasspbery Pi
+Платформы: Windows, Linux, MacOS, Rasspbery Pi  
+[Сайт](https://veracrypt.fr){: .btn .btn--success} 
+
 
 Может создать зашифрованную папку на вашем накопителе, куда можно складывать файлы. Также, только на [Windows](https://veracrypt.fr/en/Supported%20Systems%20for%20System%20Encryption.html), с её помощью можно зашифровать весь ваш жесткий диск.
 
@@ -62,23 +67,27 @@ Bitlocker можно активировать на домашней версии
 
 [Официальная документация](https://veracrypt.eu/ru/Documentation.html) на русском.
 
-# [OpenPGP](https://www.openpgp.org/)
+# OpenPGP
 
 OpenPGP используется разработчиками ПО для подписывания своих файлов, также используется для шифрования файлов и электронной почты. PGP довольно старая технология, поэтому имеет много [недостатков](https://latacora.micro.blog/2019/07/16/the-pgp-problem.html).
 
-## [GNU Privacy Guard](https://gnupg.org/) (Linux)
+## GNU Privacy Guard (Linux)  
+[Сайт](https://gnupg.org/){: .btn .btn--success}
 
 GnuPG - проект, который распространяется по лицензии GPL (Лицензия, которая разрешает конечным пользователям запускать, изучать, распространять и модифицировать программы) и который получил крупное [финансирование](https://gnupg.org/blog/20220102-a-new-future-for-gnupg.html) от правительства Германии.
 
-## [GPG4win](https://gpg4win.org/) (Windows)
+## GPG4win (Windows)  
+[Сайт](https://gpg4win.org){: .btn .btn--success}
 
 GPG4win включает в себя множество инструментов, которые позволяют вам использовать GPG на Windows. Проект был основан [федеральным офисом информационной безопасности Германии](https://www.bsi.bund.de/EN/Home/home_node.html) (BSI - Bundesamt fur Sicherheit in der Informationstechnik) в 2005 году. 
 
-## [GPG Suite](https://gpgtools.org/) (macOS)
+## GPG Suite (macOS)  
+[Сайт](https://gpgtools.org){: .btn .btn--success}
 
 GPG suite позволяет вам использовать OpenPGP на macOS. 
 
-## [OpenKeychain](https://www.openkeychain.org/) (Android)
+## OpenKeychain (Android)  
+[Сайт](https://www.openkeychain.org){: .btn .btn--success}
 
 OpenKeychain позволяет вам использовать OpenPGP на устройствах Android. 
 

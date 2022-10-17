@@ -27,4 +27,5 @@ showToc: false
 
 [Freedom of the press foundation](https://freedom.press/)
 
-[The Hitchhiker’s Guide to Online Anonymity](https://anonymousplanet.org/guide.html)  
+[The Hitchhiker’s Guide to Online Anonymity](https://anonymousplanet.org/guide.html)
+

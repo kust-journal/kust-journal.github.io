@@ -14,11 +14,13 @@ sidebar:
 
 Важно регулярно делать бэкапы приложений 2FA и хранить их на отдельном устройстве.
 
-## [Aegis](https://getaegis.app/) (Android)  
+## ![](/assets/soft-icons/aegis.png) Aegis Authenticator  
 Цена: Бесплатно  
-Платформы: Android
+Платформы: Android  
+[Сайт](https://getaegis.app){: .btn .btn--success}
 
-## [Raivo OTP](https://apps.apple.com/us/app/raivo-otp/id1459042137#?platform=iphone) (iOS, MacOS)  
+
+## ![](/assets/soft-icons/raivo-otp.png) Raivo OTP
 Цена: Бесплатно  
-Платформы: iOS, MacOS
-
+Платформы: iOS, MacOS  
+[Сайт](https://raivo-otp.com){: .btn .btn--success}

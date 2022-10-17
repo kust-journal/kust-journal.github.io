@@ -15,7 +15,7 @@ masthead_title: # overrides the website title displayed in the masthead, use " "
 
 repository: "kust-journal/kust-journal.github.io"
 url: https://kust-journal.github.io/
-logo: "/assets/images/kust_88x88.png"
+logo: "/assets/icons/android-chrome-512x512.png"
 
 words_per_minute: 115
 

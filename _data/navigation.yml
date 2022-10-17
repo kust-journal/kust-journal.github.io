@@ -17,9 +17,9 @@ docs:
     children:
       - title: "Менеджеры паролей"
         url: /docs/passwords-managers/
-      - title: "Программы для шифрования"
-        url: /docs/encruption-software/
       - title: "Двух-факторная аутентификация"
         url: /docs/2FA/
+      - title: "Программы для шифрования"
+        url: /docs/encruption-software/
       - title: "Заметки с шифрованием"
         url: /docs/encryptions-notes/
