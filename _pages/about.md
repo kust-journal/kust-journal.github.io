@@ -13,6 +13,8 @@ title: "О проекте"
 - Рекомендации программ
 - Многое многое другое...
 
+[Категории](/categories/){: .btn .btn--success} [Лента](/posts/){: .btn .btn--success}
+
 ---
 
 Подпишись на нас в [Telegram](https://t.me/kust_journal)

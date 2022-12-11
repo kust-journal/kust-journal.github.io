@@ -29,3 +29,9 @@ showToc: false
 
 [The Hitchhiker’s Guide to Online Anonymity](https://anonymousplanet.org/guide.html)
 
+[Open Source Alternative To](https://www.opensourcealternative.to)
+
+[AlternativeTo](https://alternativeto.net)
+
+[European Alternatives](https://european-alternatives.eu)
+
