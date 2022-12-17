@@ -25,3 +25,5 @@ soft:
         url: /soft/encryptions-notes/
       - title: "Мессенджеры"
         url: /soft/messengers/
+      - title: "Онлайн сервисы"
+        url: /soft/online-services/
