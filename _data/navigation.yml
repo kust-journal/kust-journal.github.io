@@ -9,19 +9,19 @@ main:
 #    url: /tags/
   - title: "Софт"
     url: /soft/
-  - title: "Коллекция ссылок"
-    url: /extra-links/
+  - title: "Источники информации"
+    url: /information-sources/
 
-docs:
+soft:
   - title: Программы
     children:
       - title: "Менеджеры паролей"
-        url: /docs/passwords-managers/
+        url: /soft/passwords-managers/
       - title: "Двух-факторная аутентификация"
-        url: /docs/2FA/
+        url: /soft/2FA/
       - title: "Программы для шифрования"
-        url: /docs/encruption-software/
+        url: /soft/encruption-software/
       - title: "Заметки с шифрованием"
-        url: /docs/encryptions-notes/
+        url: /soft/encryptions-notes/
       - title: "Мессенджеры"
-        url: /docs/messengers/
+        url: /soft/messengers/

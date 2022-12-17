@@ -1,4 +1,4 @@
 Репозиторий сайта.
-Ссылочка: https://kust-journal.github.io/
-Телеграм:https://t.me/kust_journal
-E-mail: kust-journal@tutanota.com
+
+Ссылка на сайт: https://kust-journal.github.io  
+Телеграм: https://t.me/kust_journal  

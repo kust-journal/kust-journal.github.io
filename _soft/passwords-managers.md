@@ -1,11 +1,11 @@
 ---
 title: "Менеджеры паролей"
-permalink: /docs/passwords-managers/
+permalink: /soft/passwords-managers/
 layout: "single"
 toc: true
 toc_sticky: true
 sidebar:
-  nav: "docs"
+  nav: "soft"
 ---
 
 Менеджер паролей позволяет вам генерерировать случайные сложные пароли и парольные фразы и не запоминать их, а хранить в зашифрованном виде локально или в облаке. 

@@ -1,16 +1,16 @@
 ---
 title: "Мессенджеры"
-permalink: /docs/messengers/
+permalink: /soft/messengers/
 layout: "single"
-toc: true
-toc_sticky: true
+toc: false
+toc_sticky: false
 sidebar:
-  nav: "docs"
+  nav: "soft"
 ---
 
 Обязательно прочитайте про [различия типов связи](/posts/how-messengers-work). Все мессенджеры использует E2E шифрование, что гарантирует вам сохранность ваших сообщений от посторонних глаз. 
 
-## ![](/assets/soft-icons/signal.png) Signal - для ежедневного использования
+## ![](/assets/soft-icons/Signal.png) Signal - для ежедневного использования
 Цена: Бесплатно  
 Платформы: Android, iOS, Windows, Linux, macOS  
 [Сайт](https://signal.org/ru){: .btn .btn--success}  
@@ -19,7 +19,7 @@ sidebar:
 
 Сервера не имеют доступ к вашим сообщениям, более того, сообщения удаляются с серверов после того, как они доставлены вашему сосеседнику. Signal является эталоном среди мессенджеров, однако регистрация по номеру телефона и отсутствие юзер-нэймов не идут в плюс.
 
-## ![](/assets/soft-icons/session.png) Sessions - для абсолютной анонимности
+## ![](/assets/soft-icons/Session.png) Sessions - для абсолютной анонимности
 Цена: Бесплатно  
 Платформы: Android, iOS, Windows, Linux, MacOS  
 [Сайт](https://getsession.org){: .btn .btn--success}

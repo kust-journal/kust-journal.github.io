@@ -83,4 +83,4 @@ tag_archive:
 include:
   - .htaccess
   - _pages
-  - _docs
+  - _soft

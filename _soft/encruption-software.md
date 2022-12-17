@@ -1,11 +1,11 @@
 ---
 title: "Программы для шифрования"
-permalink: /docs/encruption-software/
+permalink: /soft/encruption-software/
 layout: "single"
 toc: true
 toc_sticky: true
 sidebar:
-  nav: "docs"
+  nav: "soft"
 ---
 
 Шифрование данных, это самый надежный способ контролировать доступ к данным. 

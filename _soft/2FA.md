@@ -1,11 +1,11 @@
 ---
 title: "Двух-факторная аутентификация"
-permalink: /docs/2FA/
+permalink: /soft/2FA/
 layout: "single"
 toc: false
 toc_sticky: true
 sidebar:
-  nav: "docs"
+  nav: "soft"
 ---
 
 Хотя многие менеджеры паролей позволяют вам генерировать коды 2FA, лучше хранить их раздельно.
